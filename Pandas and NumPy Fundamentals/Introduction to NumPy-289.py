@@ -24,7 +24,7 @@ for row in taxi_list:
     converted_taxi_list.append(converted_row)
 
 # start writing your code below this comment
-taxi = numpy.array(converted_taxi_list)
+taxi = np.array(converted_taxi_list)
 
 ## 5. Array Shapes ##
 
