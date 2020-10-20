@@ -1,4 +1,4 @@
-# Data Scientist path on dataquest
+# Data Scientist path from dataquest.io
 Guided projects and exercises from [Dataquest.io - Data Science Path](https://www.dataquest.io/path/data-scientist/)
 
 
